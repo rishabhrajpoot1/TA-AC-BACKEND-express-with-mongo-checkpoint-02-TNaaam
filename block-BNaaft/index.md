@@ -5,6 +5,17 @@ Create an event management website using express & mongoDB where users visiting 
 1. Add Events
 2. View list of all events
 3. Add remarks to each events listed
+
+
+
+
+
+
+
+
+
+
+
 4. Delete events
 5. Like events/remarks added by other users
 6. Filter events based on category
